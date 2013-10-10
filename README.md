@@ -7,6 +7,10 @@ In your Gemfile
 
 `gem "binfinity-rais"`
 
+In your application.js file
+
+`\\= require binfinity`
+
 ### Usage
 
 Binfinity is a javascript plugin that allows infite scroll in either up or down direction.
