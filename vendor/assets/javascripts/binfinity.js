@@ -36,13 +36,4 @@ $(function(){
       }
     }
   }
-  var scroll_func = function() {
-    add_div();
-  }
-
-  // you can add your own callbacks
-  var add_div = function() { $('body').append('<div>this is more stuff</div>'); };
-  var prepend_func = function() { $($('body').children()[0]).prepend($('<div>PREPEND TEH DATA</div>  '))};
-
-  scroller.initialize(scroll_func, {upwardScroll: prepend_func })
 });
