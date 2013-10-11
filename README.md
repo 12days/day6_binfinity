@@ -3,7 +3,7 @@ Binfinity Scroll Gem
 
 ### Installation
 
-In your Gemfile
+In your Gemfile:
 
 `gem "binfinity-rais"`
 
@@ -32,14 +32,16 @@ $(function(){
 ```
 
 ### Contributing
-> Feel free to fork and contribute:
+> This project originated as one of twelve 1-day projects of [12 appy days](12days.github.io).
+>
+> Please feel free to fork and contribute:
 
 1. Fork the repo
-2. Clone the fork
+2. Clone the fork $`git clone`
 3. Create a feature branch `git checkout -b YOUR_BRANCH_NAME`
-4. Commit
+4. Commit & push
 5. Create a pull request
 
 ### Authors
-* Joshua Wilborn
-* David Kim
+* Joshua Wilborn <JoshuaJWilborn@gmail.com>
+* David Kim <daviddarden11@gmail.com>
